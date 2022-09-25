@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "name": "Первая",
+    "price": "2313123123",
+    "img_path": "#",
+    "category_id": "1",
+    "text": "dwadawdawdawdwadaw"
+  },
+  {
+    "id": "2",
+    "name": "Первая",
+    "price": "2313123123",
+    "img_path": "#",
+    "category_id": "1",
+    "text": "dwadawdawdawdwadaw"
+  },
+  {
+    "id": "3",
+    "name": "Первая",
+    "price": "2313123123",
+    "img_path": "#",
+    "category_id": "1",
+    "text": "dwadawdawdawdwadaw"
+  },
+  {
+    "id": 4,
+    "name": "dwadawdawdaw",
+    "price": "2313123123",
+    "category_id": "1",
+    "text": "dwadawdawdawdwadaw"
+  }
+]
